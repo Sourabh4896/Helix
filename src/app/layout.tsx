@@ -3,7 +3,7 @@ import "./globals.css";
 import { QueryProvider } from "@/providers/QueryProvider";
 
 export const metadata: Metadata = {
-  title: "Vilo",
+  title: "Helix",
   icons: {
     icon: "/image/icon.png",
   },

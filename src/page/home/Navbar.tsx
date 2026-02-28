@@ -17,7 +17,7 @@ export const Navbar = () => {
             alt=""
             className="w-5 h-5 rounded-[1px] "
           />
-          Vilo
+          Helix
         </div>
 
         <div className="hidden md:flex items-center gap-8">

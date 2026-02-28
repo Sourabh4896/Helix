@@ -10,7 +10,7 @@ export const Hero = () => (
     <div className="relative z-10 flex flex-col items-center w-full max-w-3xl mx-auto">
       <div className="flex items-center gap-0 border border-[#303030]  overflow-hidden shadow-sm">
         <span className="px-3 sm:px-4 py-1.5 text-[10px] text-[#FAFAFA]  border-r border-[#303030]">
-          Introducing Vilo
+          Introducing Helix
         </span>
         <a
           href="#"
@@ -22,7 +22,7 @@ export const Hero = () => (
 
       <h1 className="text-4xl sm:text-5xl md:text-[45px]  text-[#E6ECEC] leading-[1] -tracking-[2px] mb-6 mt-4 ">
         Latex documents developer portfolios <br />
-        learning roadmaps build with vilo
+        learning roadmaps build with helix
       </h1>
 
       <p className="text-sm text-[#9A9996] max-w-lg mx-auto">

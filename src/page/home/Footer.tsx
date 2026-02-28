@@ -14,7 +14,7 @@ function Footer() {
                 alt=""
                 className="w-5 h-5 rounded-[1px]"
               />
-              Vilo
+              Helix
             </div>
             <p className="text-sm text-neutral-500">
               Write with precision, showcase with confidence, and learn with
@@ -64,7 +64,7 @@ function Footer() {
 
         {/* Bottom Section */}
         <div className="mt-12 pt-6  flex flex-col md:flex-row justify-between items-center gap-4 text-sm text-neutral-500">
-          <p>© 2026 Vilo. All rights reserved.</p>
+          <p>© 2026 Helix. All rights reserved.</p>
           <div className="flex gap-6">
             <span className="hover:text-black cursor-pointer transition">
               Twitter

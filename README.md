@@ -1,6 +1,6 @@
-# Vilo
+# Helix
 
-Vilo is an all-in-one platform for developers to create LaTeX documents, build portfolios, follow learning roadmaps, apply for jobs, and use AI tools to improve their workflow and productivity.
+Helix is an all-in-one platform for developers to create LaTeX documents, build portfolios, follow learning roadmaps, apply for jobs, and use AI tools to improve their workflow and productivity.
 
 The platform is designed to help developers learn, build, document, and get job .
 
@@ -8,9 +8,9 @@ The platform is designed to help developers learn, build, document, and get job 
 
 ## live demo
 
-https://vilo-wine.vercel.app/
+https://helix-wine.vercel.app/
 
-## What You Can Do With Vilo
+## What You Can Do With Helix
 
 - Create and edit LaTeX documents
 - Build and manage developer portfolios
@@ -46,14 +46,14 @@ https://vilo-wine.vercel.app/
 
 ## Getting Started
 
-Follow these steps to set up Vilo locally:
+Follow these steps to set up Helix locally:
 
 ### 1. Clone the repo
 
 ```bash
-git clone [https://github.com/your-username/vilo.git]
+git clone [https://github.com/your-username/helix.git]
 
-cd vilo
+cd helix
 ```
 
 Install dependencies
