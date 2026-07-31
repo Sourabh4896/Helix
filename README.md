@@ -1,4 +1,4 @@
-# Helix
+# Vilo
 
 Helix is an all-in-one platform for developers to create LaTeX documents, build portfolios, follow learning roadmaps, apply for jobs, and use AI tools to improve their workflow and productivity.
 
