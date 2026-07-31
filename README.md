@@ -8,7 +8,7 @@ The platform is designed to help developers learn, build, document, and get job 
 
 ## live demo
 
-https://helix-wine.vercel.app/
+https://vilo-wine.vercel.app/
 
 ## What You Can Do With Helix
 
